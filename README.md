@@ -1,2 +1,3 @@
 # My Favorite Series/Movie
 1. Breaking Bad
+  ![Walter_White_S5B](https://github.com/Rolen2/app-dev/assets/168875785/a78e21f1-25dc-46c1-b72e-0d63e4d959da)
