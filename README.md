@@ -10,7 +10,6 @@
 3. A Certain Magical Index
 
   ![947](https://github.com/Rolen2/app-dev/assets/168875785/f068f3e8-836c-4c8d-afce-d018a92b6d6e)
-
    
 4. A Certain Scientific Railgun
 
