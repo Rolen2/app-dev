@@ -8,5 +8,10 @@
 ![SteinsGate-2](https://github.com/Rolen2/app-dev/assets/168875785/1a2b620c-179e-48cf-ba5b-8afd2a0ec89f)
 
 3. A Certain Magical Index
+
+  ![947](https://github.com/Rolen2/app-dev/assets/168875785/f068f3e8-836c-4c8d-afce-d018a92b6d6e)
+
+   
 4. A Certain Scientific Railgun
-5. Overflow
+
+  ![raildex1](https://github.com/Rolen2/app-dev/assets/168875785/ff57523b-55f5-4517-9269-c77e792b709c)
